@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://i.postimg.cc/bvS34bRB/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner.png)" width="100%" />
+<img src="https://i.postimg.cc/bvS34bRB/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Alomgir Hasan Shakib</h1>
 <h3 align="center">Front End Developer</h3>
 - 👯 I’m looking to collaborate on **Front End Team**
