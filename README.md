@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/bvS34bRB/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner.png" width="100%" />
+<img src="https://i.postimg.cc/5tHBLnGf/portfolio.png" width="100%" />
 <h1 align="left">Hi 👋, I'm Alomgir Hasan Shakib</h1>
 <h3 align="left">Front End Developer</h3>
 <br />
