@@ -5,8 +5,8 @@
 <br />
 <br />
 <!-- <h3 align="center">👯 I’m looking to collaborate on **Front End Team**</h3> -->
-<h3 align="center"> 🌱 I’m currently learning <b>Spring Boot and Personal Branding</b></h3>
-<h3 align="center"> 💬 Ask me about <b>Full Stack Development</b> Topic</h3>
+<h3 align="center"> 🌱 I’m currently learning <b><i>Spring Boot and Personal Branding</i></b></h3>
+<h3 align="center"> 💬 Ask me about <b> <i>Full Stack Development</i></b> Topic</h3>
 <br />
 <br />
 <br />
