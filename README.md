@@ -1,12 +1,12 @@
 <img src="https://i.postimg.cc/5tHBLnGf/portfolio.png" width="100%" />
 <h1 align="left">Hi 👋, I'm Alomgir Hasan Shakib</h1>
-<h3 align="left">Front End Developer</h3>
+<h3 align="left">Full Stack Developer</h3>
 <br />
 <br />
 <br />
 <!-- <h3 align="center">👯 I’m looking to collaborate on **Front End Team**</h3> -->
-<h3 align="center"> 🌱 I’m currently learning **Spring Boot**</h3>
-<h3 align="center"> 💬 Ask me about **Front end tech**</h3>
+<h3 align="center"> 🌱 I’m currently learning <b>Spring Boot and Personal Branding</b></h3>
+<h3 align="center"> 💬 Ask me about <b>Full Stack Development</b> Topic</h3>
 <br />
 <br />
 <br />
