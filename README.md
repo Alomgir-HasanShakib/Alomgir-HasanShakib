@@ -4,9 +4,9 @@
 <br />
 <br />
 <br />
-<h3 align="center">👯 I’m looking to collaborate on **Front End Team**</h3>
-<h3 align="center"> 🌱 I’m currently learning **Next JS and Typescript**</h3>
-<h3 align="center"> 💬 Ask me about **Tailwind Css, React Js**</h3>
+<!-- <h3 align="center">👯 I’m looking to collaborate on **Front End Team**</h3> -->
+<h3 align="center"> 🌱 I’m currently learning **Spring Boot**</h3>
+<h3 align="center"> 💬 Ask me about **Front end tech**</h3>
 <br />
 <br />
 <br />
